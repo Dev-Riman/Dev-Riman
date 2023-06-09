@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-Riman
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
